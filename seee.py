@@ -1,2 +1,2 @@
-a=("welcome to jss polytechnic")
+a=("welcome to jss polytechnic mysuru")
 print(a)
